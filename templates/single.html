@@ -1,0 +1,11 @@
+{% extends "base/base.html" %}
+{% block title %}Single page{% endblock title %}
+{% block content %}
+    <section>
+       <h1>{{ data['name'] }}</h1>
+       <p>Année de sortie : {{ data['date_out'] }}</p>
+       <p>nom du constructor : {{ data['constructor_console'] }}</p>
+       <p>type de matériel : {{ data['type_console'] }}</p>
+    </section>
+{% endblock content %}
+

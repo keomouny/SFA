@@ -1,0 +1,10 @@
+{% extends "base/base.html" %}
+{% block title %}Admin{% endblock title %}
+{% block content %}
+        <h1>Admininstrator</h1>
+        <section>
+            <p>{{ message }}</p>
+            <a href="/admin/create_table">Create table</a>
+            <a href="/admin/insert_data">Insert data</a>
+        </section>
+{% endblock content %}

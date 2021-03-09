@@ -4,6 +4,7 @@ import os
 from dotenv import load_dotenv
 from setup_logger import logger
 
+
 class BDD():
 
     logger.info('Connection with postgress in database')
@@ -12,12 +13,12 @@ class BDD():
     def __init__(self):
         self.query_specify = None
         self.mydb = psycopg2.connect(
-                host=os.environ.get('POSTGRES_HOST'),
-                dbname=os.environ.get('POSTGRES_DBNAME'),
-                user=os.environ.get('POSTGRES_USER'),
-                password=os.environ.get('POSTGRES_PASSWORD'),
-                sslmode="require"
-                )
+            host=os.environ.get('POSTGRES_HOST'),
+            dbname=os.environ.get('POSTGRES_DBNAME'),
+            user=os.environ.get('POSTGRES_USER'),
+            password=os.environ.get('POSTGRES_PASSWORD'),
+            sslmode="require"
+        )
 
     def create_table(self):
         logger.info('create table console_game')
@@ -39,28 +40,46 @@ class BDD():
             logger.error(err)
             exit()
 
-    def select_from_db_by_id(self, id_element):
-        logger.info(f'select element by id : {id_element}')
-        try:
-            self.mycursor = self.mydb.cursur(cursor_factory=psycopg2.extras.DictCursor)
-            self.query_specify = f'SELECT name, date_out, constructor_console, type_console FROM console_game WHERE id in ({id_element});'
-            self.mycursor.execute(self.query_specify)
-            result = self.mycursor.fetchone()
-            dict_result = []
-            for i in result:
-                dict_single_result = {}
-                dict_single_result['id'] = i['id']
-                dict_single_result['name'] = i['name']
-                dict_single_result['date'] = i['date_out']
-                dict_single_result['constructor'] = i['constructor_console']
-                dict_single_result['type'] = i['type_console']
-                dict_result.append(dict_single_result)
-            return dict_result
-        except psycopg2.Error as err:
-            logger.error(err)
-            exit()
+    def select_from_db(self, id_element=None):
+        self.query_specify = 'SELECT * FROM console_game'
+        if id_element != None:
+            logger.info(f'select element by id : {id_element}')
+            self.query_specify += f' WHERE id in ({id_element});'
+            try:
+                self.mycursor = self.mydb.cursor(
+                    cursor_factory=psycopg2.extras.DictCursor)
+                self.mycursor.execute(self.query_specify)
+                result = self.mycursor.fetchone()
+                return result
+            except psycopg2.Error as err:
+                logger.error(err)
+                logger.error('error for get one element')
+                exit()
+        else:
+            try:
+                logger.info('select all element for welcome page')
+                self.query_specify += ';'
+                self.mycursor = self.mydb.cursor(
+                    cursor_factory=psycopg2.extras.DictCursor)
+                self.mycursor.execute(self.query_specify)
+                result = self.mycursor.fetchall()
+            except psycopg2.Error as err:
+                logger.error(err)
+                logger.error('error for get all elements in page welcome')
+                exit()
+
+        dict_result = []
+        for i in result:
+            dict_single_result = {}
+            dict_single_result['id'] = i['id']
+            dict_single_result['name'] = i['name']
+            dict_single_result['date'] = i['date_out']
+            dict_single_result['constructor'] = i['constructor_console']
+            dict_single_result['type'] = i['type_console']
+            dict_result.append(dict_single_result)
+        return dict_result
 
     def __disconnect__(self):
-        looger.info('disconnect from database')
+        logger.info('disconnect from database')
         self.mydb.commit()
         self.mydb.close()

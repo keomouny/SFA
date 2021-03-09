@@ -1,0 +1,804 @@
+09/03/2021 14:57:29 - INFO     - Connection with postgress in database
+09/03/2021 14:58:28 - INFO     - Connection with postgress in database
+09/03/2021 14:58:28 - INFO     -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+09/03/2021 14:58:28 - INFO     -  * Restarting with stat
+09/03/2021 14:58:28 - INFO     - Connection with postgress in database
+09/03/2021 14:58:28 - WARNING  -  * Debugger is active!
+09/03/2021 14:58:28 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 14:58:37 - INFO     - welcome page
+09/03/2021 14:58:39 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/03/2021 14:58:39 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:39] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+09/03/2021 14:58:39 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:39] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+09/03/2021 14:58:39 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:39] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+09/03/2021 14:58:39 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:39] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+09/03/2021 14:58:39 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:39] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+09/03/2021 14:58:39 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:39] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+09/03/2021 14:58:51 - INFO     - welcome page
+09/03/2021 14:58:53 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/03/2021 14:58:53 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:53] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+09/03/2021 14:58:53 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:53] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+09/03/2021 14:58:53 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:53] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+09/03/2021 14:58:53 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:53] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+09/03/2021 14:58:53 - INFO     - 127.0.0.1 - - [09/Mar/2021 14:58:53] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+09/03/2021 15:02:19 - INFO     - Connection with postgress in database
+09/03/2021 15:02:19 - INFO     -  * Running on http://0.0.0.0:7000/ (Press CTRL+C to quit)
+09/03/2021 15:02:19 - INFO     -  * Restarting with stat
+09/03/2021 15:02:19 - INFO     - Connection with postgress in database
+09/03/2021 15:02:19 - WARNING  -  * Debugger is active!
+09/03/2021 15:02:19 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:02:31 - INFO     - welcome page
+09/03/2021 15:02:38 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:02:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/03/2021 15:02:38 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:02:38] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+09/03/2021 15:02:38 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:02:38] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+09/03/2021 15:02:38 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:02:38] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+09/03/2021 15:02:39 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:02:39] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+09/03/2021 15:02:39 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:02:39] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+09/03/2021 15:02:39 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:02:39] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+09/03/2021 15:03:02 - INFO     - welcome page
+09/03/2021 15:03:10 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:03:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/03/2021 15:03:10 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:03:10] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+09/03/2021 15:03:10 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:03:10] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+09/03/2021 15:03:10 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:03:10] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+09/03/2021 15:03:10 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:03:10] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+09/03/2021 15:03:10 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:03:10] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+09/03/2021 15:03:10 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:03:10] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+09/03/2021 15:07:37 - INFO     - welcome page
+09/03/2021 15:07:40 - INFO     - select all element for welcome page
+09/03/2021 15:07:40 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:07:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/03/2021 15:07:40 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:07:40] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+09/03/2021 15:07:40 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:07:40] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+09/03/2021 15:07:40 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:07:40] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+09/03/2021 15:07:40 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:07:40] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+09/03/2021 15:07:40 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:07:40] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+09/03/2021 15:07:50 - INFO     - welcome page
+09/03/2021 15:07:55 - INFO     - select all element for welcome page
+09/03/2021 15:07:55 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:07:55] "[35m[1mGET / HTTP/1.1[0m" 500 -
+09/03/2021 15:07:55 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:07:55] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+09/03/2021 15:07:55 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:07:55] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+09/03/2021 15:07:55 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:07:55] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+09/03/2021 15:07:55 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:07:55] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+09/03/2021 15:07:55 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:07:55] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+09/03/2021 15:09:07 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/bdd.py', reloading
+09/03/2021 15:09:07 - INFO     -  * Restarting with stat
+09/03/2021 15:09:08 - INFO     - Connection with postgress in database
+09/03/2021 15:09:08 - WARNING  -  * Debugger is active!
+09/03/2021 15:09:08 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:09:11 - INFO     - welcome page
+09/03/2021 15:09:13 - INFO     - select all element for welcome page
+09/03/2021 15:09:13 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:09:13 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:09:13 - INFO     - welcome page
+09/03/2021 15:09:15 - INFO     - select all element for welcome page
+09/03/2021 15:09:15 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:09:15 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:09:15 - INFO     - welcome page
+09/03/2021 15:09:16 - INFO     - select all element for welcome page
+09/03/2021 15:09:17 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:09:17 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:09:18 - INFO     - welcome page
+09/03/2021 15:09:20 - INFO     - select all element for welcome page
+09/03/2021 15:09:20 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:09:20 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:09:20 - INFO     - welcome page
+09/03/2021 15:09:22 - INFO     - select all element for welcome page
+09/03/2021 15:09:22 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:09:22 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:09:22 - INFO     - welcome page
+09/03/2021 15:09:24 - INFO     - select all element for welcome page
+09/03/2021 15:09:24 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:09:24 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:09:29 - INFO     - welcome page
+09/03/2021 15:09:32 - INFO     - select all element for welcome page
+09/03/2021 15:09:32 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:09:32 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:09:32 - INFO     - welcome page
+09/03/2021 15:09:36 - INFO     - select all element for welcome page
+09/03/2021 15:09:36 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:09:36 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:09:36 - INFO     - welcome page
+09/03/2021 15:09:39 - INFO     - select all element for welcome page
+09/03/2021 15:09:39 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:09:39 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:10:09 - INFO     - welcome page
+09/03/2021 15:10:19 - INFO     - select all element for welcome page
+09/03/2021 15:10:19 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:10:19 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:10:19 - INFO     - welcome page
+09/03/2021 15:10:22 - INFO     - select all element for welcome page
+09/03/2021 15:10:22 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:10:22 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:10:22 - INFO     - welcome page
+09/03/2021 15:10:30 - INFO     - select all element for welcome page
+09/03/2021 15:10:30 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:10:30 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:10:31 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:10:31 - INFO     -  * Restarting with stat
+09/03/2021 15:10:31 - INFO     - Connection with postgress in database
+09/03/2021 15:10:31 - WARNING  -  * Debugger is active!
+09/03/2021 15:10:31 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:10:33 - INFO     - welcome page
+09/03/2021 15:10:33 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:10:33] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:10:33 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:10:33] "[37mGET /static/styles/style.css HTTP/1.1[0m" 200 -
+09/03/2021 15:10:33 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:10:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+09/03/2021 15:10:38 - INFO     - welcome page admin
+09/03/2021 15:10:38 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:10:38] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:10:39 - INFO     - welcome page
+09/03/2021 15:10:39 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:10:39] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:11:08 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:11:08 - INFO     -  * Restarting with stat
+09/03/2021 15:11:08 - INFO     - Connection with postgress in database
+09/03/2021 15:11:08 - WARNING  -  * Debugger is active!
+09/03/2021 15:11:08 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:11:10 - INFO     - welcome page
+09/03/2021 15:11:12 - INFO     - select all element for welcome page
+09/03/2021 15:11:12 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:11:12 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:11:12 - INFO     - welcome page
+09/03/2021 15:11:14 - INFO     - select all element for welcome page
+09/03/2021 15:11:14 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:11:14 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:11:14 - INFO     - welcome page
+09/03/2021 15:11:17 - INFO     - select all element for welcome page
+09/03/2021 15:11:17 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:11:17 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:11:18 - INFO     - welcome page
+09/03/2021 15:11:22 - INFO     - select all element for welcome page
+09/03/2021 15:11:22 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:11:22 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:11:22 - INFO     - welcome page
+09/03/2021 15:11:24 - INFO     - select all element for welcome page
+09/03/2021 15:11:24 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:11:24 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:11:24 - INFO     - welcome page
+09/03/2021 15:11:26 - INFO     - select all element for welcome page
+09/03/2021 15:11:26 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:11:26 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:11:31 - INFO     - welcome page
+09/03/2021 15:11:33 - INFO     - select all element for welcome page
+09/03/2021 15:11:33 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:11:33 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:11:33 - INFO     - welcome page
+09/03/2021 15:11:35 - INFO     - select all element for welcome page
+09/03/2021 15:11:35 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:11:35 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:11:35 - INFO     - welcome page
+09/03/2021 15:11:38 - INFO     - select all element for welcome page
+09/03/2021 15:11:38 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:11:38 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:12:08 - INFO     - welcome page
+09/03/2021 15:12:11 - INFO     - select all element for welcome page
+09/03/2021 15:12:11 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:12:11 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:12:11 - INFO     - welcome page
+09/03/2021 15:12:11 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:12:11 - INFO     -  * Restarting with stat
+09/03/2021 15:12:11 - INFO     - Connection with postgress in database
+09/03/2021 15:12:11 - WARNING  -  * Debugger is active!
+09/03/2021 15:12:11 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:12:11 - INFO     - welcome page
+09/03/2021 15:12:14 - INFO     - select all element for welcome page
+09/03/2021 15:12:14 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:12:14 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:12:27 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/bdd.py', reloading
+09/03/2021 15:12:27 - INFO     -  * Restarting with stat
+09/03/2021 15:12:27 - INFO     - Connection with postgress in database
+09/03/2021 15:12:27 - WARNING  -  * Debugger is active!
+09/03/2021 15:12:27 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:12:29 - INFO     - welcome page
+09/03/2021 15:12:32 - INFO     - select all element for welcome page
+09/03/2021 15:12:32 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:12:32 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:12:32 - INFO     - welcome page
+09/03/2021 15:12:36 - INFO     - select all element for welcome page
+09/03/2021 15:12:37 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:12:37 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:12:37 - INFO     - welcome page
+09/03/2021 15:12:40 - INFO     - select all element for welcome page
+09/03/2021 15:12:41 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:12:41 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:12:42 - INFO     - welcome page
+09/03/2021 15:12:50 - INFO     - select all element for welcome page
+09/03/2021 15:12:50 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:12:50 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:12:50 - INFO     - welcome page
+09/03/2021 15:13:00 - INFO     - select all element for welcome page
+09/03/2021 15:13:00 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:13:00 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:13:00 - INFO     - welcome page
+09/03/2021 15:13:04 - INFO     - select all element for welcome page
+09/03/2021 15:13:04 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:13:04 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:13:09 - INFO     - welcome page
+09/03/2021 15:13:11 - INFO     - select all element for welcome page
+09/03/2021 15:13:11 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:13:11 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:13:11 - INFO     - welcome page
+09/03/2021 15:13:13 - INFO     - select all element for welcome page
+09/03/2021 15:13:13 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:13:13 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:13:13 - INFO     - welcome page
+09/03/2021 15:13:15 - INFO     - select all element for welcome page
+09/03/2021 15:13:15 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:13:15 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:13:40 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/bdd.py', reloading
+09/03/2021 15:13:40 - INFO     -  * Restarting with stat
+09/03/2021 15:13:40 - INFO     - Connection with postgress in database
+09/03/2021 15:13:40 - WARNING  -  * Debugger is active!
+09/03/2021 15:13:40 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:13:41 - INFO     - welcome page
+09/03/2021 15:13:43 - INFO     - select all element for welcome page
+09/03/2021 15:13:43 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:13:43 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:13:43 - INFO     - welcome page
+09/03/2021 15:13:45 - INFO     - select all element for welcome page
+09/03/2021 15:13:45 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:13:45 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:13:45 - INFO     - welcome page
+09/03/2021 15:13:47 - INFO     - select all element for welcome page
+09/03/2021 15:13:47 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:13:47 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:14:17 - INFO     - welcome page
+09/03/2021 15:14:19 - INFO     - select all element for welcome page
+09/03/2021 15:14:19 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:14:19 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:14:19 - INFO     - welcome page
+09/03/2021 15:14:21 - INFO     - select all element for welcome page
+09/03/2021 15:14:21 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:14:21 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:14:21 - INFO     - welcome page
+09/03/2021 15:14:23 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/bdd.py', reloading
+09/03/2021 15:14:23 - INFO     -  * Restarting with stat
+09/03/2021 15:14:23 - INFO     - Connection with postgress in database
+09/03/2021 15:14:23 - WARNING  -  * Debugger is active!
+09/03/2021 15:14:23 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:14:25 - INFO     - welcome page
+09/03/2021 15:14:27 - INFO     - select all element for welcome page
+09/03/2021 15:14:28 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:14:28 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:14:28 - INFO     - welcome page
+09/03/2021 15:14:30 - INFO     - select all element for welcome page
+09/03/2021 15:14:30 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:14:30 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:14:30 - INFO     - welcome page
+09/03/2021 15:14:32 - INFO     - select all element for welcome page
+09/03/2021 15:14:32 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:14:32 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:14:33 - INFO     - welcome page
+09/03/2021 15:14:34 - INFO     - select all element for welcome page
+09/03/2021 15:14:34 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:14:34 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:14:34 - INFO     - welcome page
+09/03/2021 15:14:36 - INFO     - select all element for welcome page
+09/03/2021 15:14:36 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:14:36 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:14:36 - INFO     - welcome page
+09/03/2021 15:14:38 - INFO     - select all element for welcome page
+09/03/2021 15:14:38 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:14:38 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:14:43 - INFO     - welcome page
+09/03/2021 15:14:45 - INFO     - select all element for welcome page
+09/03/2021 15:14:45 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:14:45 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:14:45 - INFO     - welcome page
+09/03/2021 15:14:46 - INFO     - select all element for welcome page
+09/03/2021 15:14:47 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:14:47 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:14:47 - INFO     - welcome page
+09/03/2021 15:14:51 - INFO     - select all element for welcome page
+09/03/2021 15:14:51 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:14:51 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:15:21 - INFO     - welcome page
+09/03/2021 15:15:25 - INFO     - select all element for welcome page
+09/03/2021 15:15:25 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:15:25 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:15:25 - INFO     - welcome page
+09/03/2021 15:15:27 - INFO     - select all element for welcome page
+09/03/2021 15:15:27 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:15:27 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:15:27 - INFO     - welcome page
+09/03/2021 15:15:29 - INFO     - select all element for welcome page
+09/03/2021 15:15:29 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:15:29 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:15:32 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:15:32 - INFO     -  * Restarting with stat
+09/03/2021 15:15:33 - INFO     - Connection with postgress in database
+09/03/2021 15:15:33 - WARNING  -  * Debugger is active!
+09/03/2021 15:15:33 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:15:35 - INFO     - welcome page
+09/03/2021 15:15:37 - INFO     - select all element for welcome page
+09/03/2021 15:15:37 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:15:37 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:15:37 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:15:37] "[32mGET / HTTP/1.1[0m" 302 -
+09/03/2021 15:15:37 - INFO     - welcome page admin
+09/03/2021 15:15:37 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:15:37] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:15:48 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:15:48 - INFO     -  * Restarting with stat
+09/03/2021 15:15:48 - INFO     - Connection with postgress in database
+09/03/2021 15:15:48 - WARNING  -  * Debugger is active!
+09/03/2021 15:15:48 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:15:55 - INFO     - welcome page admin
+09/03/2021 15:15:55 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:15:55] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:15:57 - INFO     - welcome page admin
+09/03/2021 15:15:57 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:15:57] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:16:04 - INFO     - welcome page
+09/03/2021 15:16:10 - INFO     - select all element for welcome page
+09/03/2021 15:16:10 - ERROR    - relation "console_game" does not exist
+LINE 1: SELECT * FROM console_game;
+                      ^
+
+09/03/2021 15:16:10 - ERROR    - error for get all elements in page welcome
+09/03/2021 15:16:10 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:16:10] "[32mGET / HTTP/1.1[0m" 302 -
+09/03/2021 15:16:10 - INFO     - welcome page admin
+09/03/2021 15:16:10 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:16:10] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:16:20 - INFO     - create table console_game
+09/03/2021 15:16:24 - INFO     - disconnect from database
+09/03/2021 15:16:24 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:16:24] "[32mGET /admin/create_table HTTP/1.1[0m" 302 -
+09/03/2021 15:16:24 - INFO     - welcome page admin
+09/03/2021 15:16:24 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:16:24] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:16:28 - INFO     - welcome page
+09/03/2021 15:16:29 - INFO     - select all element for welcome page
+09/03/2021 15:16:29 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:16:29] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:17:51 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:17:51 - INFO     -  * Restarting with stat
+09/03/2021 15:17:51 - INFO     - Connection with postgress in database
+09/03/2021 15:17:51 - WARNING  -  * Debugger is active!
+09/03/2021 15:17:51 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:17:53 - INFO     - welcome page
+09/03/2021 15:18:00 - INFO     - select all element for welcome page
+09/03/2021 15:18:01 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:18:01] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:18:36 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:18:36 - INFO     -  * Restarting with stat
+09/03/2021 15:18:36 - INFO     - Connection with postgress in database
+09/03/2021 15:18:36 - WARNING  -  * Debugger is active!
+09/03/2021 15:18:36 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:18:38 - INFO     - welcome page
+09/03/2021 15:18:41 - INFO     - select all element for welcome page
+09/03/2021 15:18:41 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:18:41] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:19:23 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:19:23 - INFO     -  * Restarting with stat
+09/03/2021 15:19:23 - INFO     - Connection with postgress in database
+09/03/2021 15:19:23 - WARNING  -  * Debugger is active!
+09/03/2021 15:19:23 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:20:32 - INFO     - welcome page
+09/03/2021 15:20:33 - INFO     - select all element for welcome page
+09/03/2021 15:20:34 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:20:34] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:31:29 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:31:29 - INFO     -  * Restarting with stat
+09/03/2021 15:31:29 - INFO     - Connection with postgress in database
+09/03/2021 15:31:29 - WARNING  -  * Debugger is active!
+09/03/2021 15:31:29 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:31:34 - INFO     - welcome page
+09/03/2021 15:31:36 - INFO     - select all element for welcome page
+09/03/2021 15:31:36 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:31:36] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:31:38 - INFO     - welcome page
+09/03/2021 15:31:40 - INFO     - select all element for welcome page
+09/03/2021 15:31:41 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:31:41] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:34:27 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:34:27 - INFO     -  * Restarting with stat
+09/03/2021 15:34:27 - INFO     - Connection with postgress in database
+09/03/2021 15:34:27 - WARNING  -  * Debugger is active!
+09/03/2021 15:34:27 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:34:31 - INFO     - welcome page
+09/03/2021 15:34:33 - INFO     - select all element for welcome page
+09/03/2021 15:34:33 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:34:33] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:34:36 - INFO     - welcome page
+09/03/2021 15:34:39 - INFO     - select all element for welcome page
+09/03/2021 15:34:39 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:34:39] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:35:37 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:35:37 - INFO     -  * Restarting with stat
+09/03/2021 15:35:38 - INFO     - Connection with postgress in database
+09/03/2021 15:35:38 - WARNING  -  * Debugger is active!
+09/03/2021 15:35:38 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:35:40 - INFO     - welcome page
+09/03/2021 15:35:42 - INFO     - select all element for welcome page
+09/03/2021 15:35:42 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:35:42] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:36:03 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:36:03 - INFO     -  * Restarting with stat
+09/03/2021 15:36:03 - INFO     - Connection with postgress in database
+09/03/2021 15:36:03 - WARNING  -  * Debugger is active!
+09/03/2021 15:36:03 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:36:04 - INFO     - welcome page
+09/03/2021 15:36:09 - INFO     - select all element for welcome page
+09/03/2021 15:36:09 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:36:09] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:36:36 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:36:36 - INFO     -  * Restarting with stat
+09/03/2021 15:36:36 - INFO     - Connection with postgress in database
+09/03/2021 15:36:36 - WARNING  -  * Debugger is active!
+09/03/2021 15:36:36 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:37:28 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:37:28 - INFO     -  * Restarting with stat
+09/03/2021 15:37:28 - INFO     - Connection with postgress in database
+09/03/2021 15:37:28 - WARNING  -  * Debugger is active!
+09/03/2021 15:37:28 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:37:31 - INFO     - welcome page
+09/03/2021 15:37:44 - INFO     - select all element for welcome page
+09/03/2021 15:37:44 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:37:44] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:37:58 - INFO     - Connection with postgress in database
+09/03/2021 15:37:58 - INFO     -  * Running on http://0.0.0.0:7000/ (Press CTRL+C to quit)
+09/03/2021 15:37:58 - INFO     -  * Restarting with stat
+09/03/2021 15:37:58 - INFO     - Connection with postgress in database
+09/03/2021 15:37:58 - WARNING  -  * Debugger is active!
+09/03/2021 15:37:58 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:38:02 - INFO     - welcome page
+09/03/2021 15:38:04 - INFO     - select all element for welcome page
+09/03/2021 15:38:04 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:38:04] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:38:59 - INFO     - welcome page
+09/03/2021 15:39:01 - INFO     - select all element for welcome page
+09/03/2021 15:39:01 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:39:01] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:40:33 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:40:33 - INFO     -  * Restarting with stat
+09/03/2021 15:40:33 - INFO     - Connection with postgress in database
+09/03/2021 15:40:33 - WARNING  -  * Debugger is active!
+09/03/2021 15:40:33 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:40:36 - INFO     - welcome page
+09/03/2021 15:40:41 - INFO     - select all element for welcome page
+09/03/2021 15:40:41 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:40:41] "[32mGET / HTTP/1.1[0m" 302 -
+09/03/2021 15:40:41 - INFO     - welcome page admin
+09/03/2021 15:40:41 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:40:41] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:40:50 - ERROR    - Insert data is failed
+09/03/2021 15:40:50 - INFO     - disconnect from database
+09/03/2021 15:40:50 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:40:50] "[32mGET /admin/insert_data HTTP/1.1[0m" 302 -
+09/03/2021 15:40:50 - INFO     - welcome page admin
+09/03/2021 15:40:50 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:40:50] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:40:57 - ERROR    - Insert data is failed
+09/03/2021 15:40:57 - INFO     - disconnect from database
+09/03/2021 15:40:57 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:40:57] "[32mGET /admin/insert_data HTTP/1.1[0m" 302 -
+09/03/2021 15:40:57 - INFO     - welcome page admin
+09/03/2021 15:40:57 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:40:57] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:41:53 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:41:53 - INFO     -  * Restarting with stat
+09/03/2021 15:41:53 - INFO     - Connection with postgress in database
+09/03/2021 15:41:53 - WARNING  -  * Debugger is active!
+09/03/2021 15:41:53 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:41:59 - ERROR    - Insert data is failed
+09/03/2021 15:41:59 - INFO     - disconnect from database
+09/03/2021 15:41:59 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:41:59] "[32mGET /admin/insert_data HTTP/1.1[0m" 302 -
+09/03/2021 15:41:59 - INFO     - welcome page admin
+09/03/2021 15:41:59 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:41:59] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:42:17 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:42:17 - INFO     -  * Restarting with stat
+09/03/2021 15:42:17 - INFO     - Connection with postgress in database
+09/03/2021 15:42:17 - WARNING  -  * Debugger is active!
+09/03/2021 15:42:17 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:43:16 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:43:16 - INFO     -  * Restarting with stat
+09/03/2021 15:43:16 - INFO     - Connection with postgress in database
+09/03/2021 15:43:16 - WARNING  -  * Debugger is active!
+09/03/2021 15:43:16 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:43:27 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:43:27 - INFO     -  * Restarting with stat
+09/03/2021 15:43:27 - INFO     - Connection with postgress in database
+09/03/2021 15:43:27 - WARNING  -  * Debugger is active!
+09/03/2021 15:43:28 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:43:36 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:43:36 - INFO     -  * Restarting with stat
+09/03/2021 15:43:36 - INFO     - Connection with postgress in database
+09/03/2021 15:43:36 - WARNING  -  * Debugger is active!
+09/03/2021 15:43:36 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:43:38 - INFO     - welcome page admin
+09/03/2021 15:43:38 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:43:38] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:43:42 - INFO     - instanciation DataConsole and get data
+09/03/2021 15:43:42 - INFO     - insert data
+09/03/2021 15:43:42 - INFO     - insert data is success
+09/03/2021 15:43:42 - INFO     - disconnect from database
+09/03/2021 15:43:42 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:43:42] "[32mGET /admin/insert_data HTTP/1.1[0m" 302 -
+09/03/2021 15:43:42 - INFO     - welcome page admin
+09/03/2021 15:43:42 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:43:42] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:44:08 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:44:08 - INFO     -  * Restarting with stat
+09/03/2021 15:44:09 - INFO     - Connection with postgress in database
+09/03/2021 15:44:09 - WARNING  -  * Debugger is active!
+09/03/2021 15:44:09 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:44:17 - INFO     - welcome page
+09/03/2021 15:44:20 - INFO     - select all element for welcome page
+09/03/2021 15:44:20 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:44:20] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:47:04 - INFO     - welcome page
+09/03/2021 15:47:16 - INFO     - select all element for welcome page
+09/03/2021 15:47:17 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:47:17] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:47:48 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/bdd.py', reloading
+09/03/2021 15:47:48 - INFO     -  * Restarting with stat
+09/03/2021 15:47:48 - INFO     - Connection with postgress in database
+09/03/2021 15:47:48 - WARNING  -  * Debugger is active!
+09/03/2021 15:47:48 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:48:57 - INFO     - welcome page
+09/03/2021 15:49:03 - INFO     - select all element for welcome page
+09/03/2021 15:49:03 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:49:03] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:56:13 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 15:56:13 - INFO     -  * Restarting with stat
+09/03/2021 15:56:14 - INFO     - Connection with postgress in database
+09/03/2021 15:56:14 - WARNING  -  * Debugger is active!
+09/03/2021 15:56:14 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 15:58:32 - INFO     - welcome page
+09/03/2021 15:58:45 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:58:45] "[32mGET / HTTP/1.1[0m" 302 -
+09/03/2021 15:58:45 - INFO     - welcome page admin
+09/03/2021 15:58:45 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:58:45] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 15:58:46 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:58:46] "[37mGET /static/styles/style.css HTTP/1.1[0m" 200 -
+09/03/2021 15:59:25 - INFO     - welcome page
+09/03/2021 15:59:29 - INFO     - select all element for welcome page
+09/03/2021 15:59:29 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:59:29] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 15:59:29 - INFO     - 127.0.0.1 - - [09/Mar/2021 15:59:29] "[37mGET /static/styles/style.css HTTP/1.1[0m" 200 -
+09/03/2021 16:00:14 - INFO     - welcome page
+09/03/2021 16:00:23 - INFO     - select all element for welcome page
+09/03/2021 16:00:27 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:00:27] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 16:00:27 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:00:27] "[37mGET /static/styles/style.css HTTP/1.1[0m" 200 -
+09/03/2021 16:00:41 - INFO     - welcome page
+09/03/2021 16:00:49 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:00:49] "[32mGET / HTTP/1.1[0m" 302 -
+09/03/2021 16:00:49 - INFO     - welcome page admin
+09/03/2021 16:00:49 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:00:49] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 16:00:49 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:00:49] "[37mGET /static/styles/style.css HTTP/1.1[0m" 200 -
+09/03/2021 16:00:52 - INFO     - welcome page
+09/03/2021 16:01:01 - INFO     - select all element for welcome page
+09/03/2021 16:01:05 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:01:05] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 16:01:05 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:01:05] "[37mGET /static/styles/style.css HTTP/1.1[0m" 200 -
+09/03/2021 16:01:18 - INFO     - get single page for console id = 1
+09/03/2021 16:01:31 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:01:31] "[32mGET /console/1 HTTP/1.1[0m" 302 -
+09/03/2021 16:01:31 - INFO     - welcome page
+09/03/2021 16:01:44 - INFO     - select all element for welcome page
+09/03/2021 16:01:47 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:01:47] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 16:02:41 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 16:02:41 - INFO     -  * Restarting with stat
+09/03/2021 16:02:41 - INFO     - Connection with postgress in database
+09/03/2021 16:02:41 - WARNING  -  * Debugger is active!
+09/03/2021 16:02:41 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 16:02:57 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 16:02:57 - INFO     -  * Restarting with stat
+09/03/2021 16:02:57 - INFO     - Connection with postgress in database
+09/03/2021 16:02:57 - WARNING  -  * Debugger is active!
+09/03/2021 16:02:57 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 16:02:59 - INFO     - welcome page
+09/03/2021 16:03:06 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:03:06] "[32mGET / HTTP/1.1[0m" 302 -
+09/03/2021 16:03:06 - INFO     - welcome page admin
+09/03/2021 16:03:06 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:03:06] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 16:03:06 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:03:06] "[37mGET /static/styles/style.css HTTP/1.1[0m" 200 -
+09/03/2021 16:03:30 - INFO     - welcome page
+09/03/2021 16:03:35 - INFO     - select all element for welcome page
+09/03/2021 16:03:36 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:03:36] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 16:03:36 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:03:36] "[37mGET /static/styles/style.css HTTP/1.1[0m" 200 -
+09/03/2021 16:03:40 - INFO     - get single page for console id = 1
+09/03/2021 16:03:45 - INFO     - select element by id : 1
+09/03/2021 16:03:47 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:03:47] "[32mGET /console/1 HTTP/1.1[0m" 302 -
+09/03/2021 16:03:47 - INFO     - welcome page
+09/03/2021 16:03:52 - INFO     - select all element for welcome page
+09/03/2021 16:03:52 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:03:52] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 16:04:14 - INFO     - welcome page
+09/03/2021 16:04:31 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:04:31] "[32mGET / HTTP/1.1[0m" 302 -
+09/03/2021 16:04:31 - INFO     - welcome page admin
+09/03/2021 16:04:31 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:04:31] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 16:04:31 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:04:31] "[37mGET /static/styles/style.css HTTP/1.1[0m" 200 -
+09/03/2021 16:05:06 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/bdd.py', reloading
+09/03/2021 16:05:06 - INFO     -  * Restarting with stat
+09/03/2021 16:05:07 - INFO     - Connection with postgress in database
+09/03/2021 16:05:07 - WARNING  -  * Debugger is active!
+09/03/2021 16:05:07 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 16:05:11 - INFO     - welcome page
+09/03/2021 16:05:16 - INFO     - select all element for welcome page
+09/03/2021 16:05:17 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:05:17] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 16:05:17 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:05:17] "[37mGET /static/styles/style.css HTTP/1.1[0m" 200 -
+09/03/2021 16:05:40 - INFO     - get single page for console id = 1
+09/03/2021 16:05:41 - INFO     - select element by id : 1
+09/03/2021 16:05:42 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:05:42] "[32mGET /console/1 HTTP/1.1[0m" 302 -
+09/03/2021 16:05:42 - INFO     - welcome page
+09/03/2021 16:05:44 - INFO     - select all element for welcome page
+09/03/2021 16:05:44 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:05:44] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 16:06:45 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/bdd.py', reloading
+09/03/2021 16:06:45 - INFO     -  * Restarting with stat
+09/03/2021 16:06:45 - INFO     - Connection with postgress in database
+09/03/2021 16:06:45 - WARNING  -  * Debugger is active!
+09/03/2021 16:06:45 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 16:06:52 - INFO     - get single page for console id = 1
+09/03/2021 16:06:54 - INFO     - select element by id : 1
+09/03/2021 16:06:54 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:06:54] "[32mGET /console/1 HTTP/1.1[0m" 302 -
+09/03/2021 16:06:54 - INFO     - welcome page
+09/03/2021 16:06:56 - INFO     - select all element for welcome page
+09/03/2021 16:06:56 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:06:56] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 16:07:34 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/bdd.py', reloading
+09/03/2021 16:07:34 - INFO     -  * Restarting with stat
+09/03/2021 16:07:34 - INFO     - Connection with postgress in database
+09/03/2021 16:07:34 - WARNING  -  * Debugger is active!
+09/03/2021 16:07:34 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 16:07:39 - INFO     - get single page for console id = 1
+09/03/2021 16:07:47 - INFO     - select element by id : 1
+09/03/2021 16:07:48 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:07:48] "[32mGET /console/1 HTTP/1.1[0m" 302 -
+09/03/2021 16:07:48 - INFO     - welcome page
+09/03/2021 16:07:54 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:07:54] "[32mGET / HTTP/1.1[0m" 302 -
+09/03/2021 16:07:54 - INFO     - welcome page admin
+09/03/2021 16:07:54 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:07:54] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 16:08:04 - INFO     - welcome page
+09/03/2021 16:08:05 - INFO     - welcome page
+09/03/2021 16:08:10 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:08:10] "[32mGET / HTTP/1.1[0m" 302 -
+09/03/2021 16:08:11 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:08:11] "[32mGET / HTTP/1.1[0m" 302 -
+09/03/2021 16:08:11 - INFO     - welcome page admin
+09/03/2021 16:08:11 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:08:11] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 16:08:15 - INFO     - welcome page
+09/03/2021 16:08:24 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:08:24] "[32mGET / HTTP/1.1[0m" 302 -
+09/03/2021 16:08:24 - INFO     - welcome page admin
+09/03/2021 16:08:24 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:08:24] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 16:08:31 - INFO     - welcome page
+09/03/2021 16:08:38 - INFO     - select all element for welcome page
+09/03/2021 16:08:41 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:08:41] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 16:09:27 - INFO     - get single page for console id = 1
+09/03/2021 16:09:36 - INFO     - select element by id : 1
+09/03/2021 16:09:41 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:09:41] "[32mGET /console/1 HTTP/1.1[0m" 302 -
+09/03/2021 16:09:41 - INFO     - welcome page
+09/03/2021 16:09:47 - INFO     - select all element for welcome page
+09/03/2021 16:09:53 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:09:53] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 16:10:29 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/bdd.py', reloading
+09/03/2021 16:10:29 - INFO     -  * Restarting with stat
+09/03/2021 16:10:29 - INFO     - Connection with postgress in database
+09/03/2021 16:10:29 - WARNING  -  * Debugger is active!
+09/03/2021 16:10:29 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 16:10:33 - INFO     - welcome page
+09/03/2021 16:10:36 - INFO     - select all element for welcome page
+09/03/2021 16:10:38 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:10:38] "[37mGET / HTTP/1.1[0m" 200 -
+09/03/2021 16:10:45 - INFO     - get single page for console id = 1
+09/03/2021 16:10:57 - INFO     - select element by id : 1
+09/03/2021 16:11:01 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:11:01] "[37mGET /console/1 HTTP/1.1[0m" 200 -
+09/03/2021 16:13:49 - INFO     - get single page for console id = 1
+09/03/2021 16:13:58 - INFO     - select element by id : 1
+09/03/2021 16:14:03 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:14:03] "[37mGET /console/1 HTTP/1.1[0m" 200 -
+09/03/2021 16:14:12 - INFO     - welcome page
+09/03/2021 16:14:18 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:14:18] "[32mGET / HTTP/1.1[0m" 302 -
+09/03/2021 16:14:18 - INFO     - welcome page admin
+09/03/2021 16:14:18 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:14:18] "[37mGET /admin HTTP/1.1[0m" 200 -
+09/03/2021 16:14:50 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 16:14:50 - INFO     -  * Restarting with stat
+09/03/2021 16:14:51 - INFO     - Connection with postgress in database
+09/03/2021 16:14:51 - WARNING  -  * Debugger is active!
+09/03/2021 16:14:51 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 16:15:53 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/main.py', reloading
+09/03/2021 16:15:53 - INFO     -  * Restarting with stat
+09/03/2021 16:15:53 - INFO     - Connection with postgress in database
+09/03/2021 16:15:53 - WARNING  -  * Debugger is active!
+09/03/2021 16:15:53 - INFO     -  * Debugger PIN: 307-507-681
+09/03/2021 16:15:56 - INFO     - welcome page admin
+09/03/2021 16:15:56 - INFO     - 127.0.0.1 - - [09/Mar/2021 16:15:56] "[37mGET /admin HTTP/1.1[0m" 200 -

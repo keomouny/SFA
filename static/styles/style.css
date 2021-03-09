@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    width: 100%;
+    background-color: #C6D7E1;
+    background-size: cover;
+}
+
+navbar {
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em;
+    font-family: 'Roboto', sans-serif;
+
+}
