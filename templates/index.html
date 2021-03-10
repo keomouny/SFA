@@ -7,7 +7,7 @@
     {% if data %}
         <ul>
         {% for data_one in data %}
-            <li><a target="blank" href="console/{{ data_one['id']}}">{{ data_one['name'] }}</a></li>
+            <li><a href="/{{ data_one['id']}}">{{ data_one['name'] }}</a></li>
         {% endfor %}
         </ul>
     {% endif %}
