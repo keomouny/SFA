@@ -1,4 +1,5 @@
-# SFA
+# Server Flask with Ansible
+
 Serveur flask with ansible
 
 ## description
@@ -6,6 +7,8 @@ Serveur flask with ansible
 Application python with micro-framework and ansible
 
 ## technologies
-	- python
-	- flask
-	- ansible
+
+    - python
+    - flask
+    - PostgreSQL
+    - ansible
