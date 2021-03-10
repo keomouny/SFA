@@ -37,7 +37,7 @@ def insert_data():
     return redirect('/admin')
 
 
-@app.route("/console/<int:id_console>")
+@app.route("/<int:id_console>")
 def single_page(id_console):
     logger.info(f'get single page for console id = {id_console}')
     try:
@@ -71,4 +71,4 @@ def page_admin():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=7000, debug=True)
+    app.run(host="0.0.0.0", port=3000, debug=True)
