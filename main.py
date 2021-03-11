@@ -50,17 +50,16 @@ def single_page(id_console):
 
 
 @app.route("/inc")
-def insert_inc():
+def insert_query_inc():
     global message
     db_game = bdd.BDD()
     try:
-        data = db_game.insert_inc()
-        db_game.__disconnect__()
+        db_game.insert_inc()
         logger.info('insert inc with success')
         message = 'INC is SUCCESS'
     except Exception as err:
         logger.error('Insert inc is failed')
-        message = 'ERROR'
+        message = 'ERROR for insert inc'
     db_game.__disconnect__()
     return redirect('/admin')
 

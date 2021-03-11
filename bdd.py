@@ -45,13 +45,13 @@ class BDD():
         try:
             self.mycursor = self.mydb.cursor()
             self.mycursor.execute(
-                'INSERT INTO console_game(name, date_out, constructor_console, type_console) VALUES(null, null, null, null) ON CONFLICT DO UPDATE SET console_game.name=null')
+                "INSERT INTO console_game (name, date_out, constructor_console, type_console) VALUES (%s, %s, %s, %s)", ('', 0, '', ''))
         except psycopg2.Error as err:
             logger.error(err)
             exit()
 
     def select_from_db(self, id_element=None):
-        self.query_specify = 'SELECT * FROM console_game'
+        self.query_specify = 'SELECT * FROM console_game WHERE name IS NOT NULL'
         if id_element != None:
             logger.info(f'select element by id : {id_element}')
             self.query_specify += f' WHERE id in ({id_element});'
