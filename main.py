@@ -13,7 +13,7 @@ def create_table():
     db_game = bdd.BDD()
     try:
         db_game.create_table()
-        message = 'SUCCESS'
+        message = 'SUCCESS on create table'
     except Exception as err:
         message = 'create table is failed'
         logger.error('create table is failed')
@@ -29,10 +29,10 @@ def insert_data():
         data_console = DataConsole().data
         db_game.insert_data(data_console)
         logger.info('insert data is success')
-        message = 'SUCCESS'
+        message = 'INSERT DATA is SUCCESS'
     except Exception as err:
         logger.error('Insert data is failed')
-        message = 'ERROR'
+        message = 'ERROR for insert data'
     db_game.__disconnect__()
     return redirect('/admin')
 
@@ -47,6 +47,22 @@ def single_page(id_console):
     except:
         return redirect('/')
     return render_template('single.html', data=data)
+
+
+@app.route("/inc")
+def insert_inc():
+    global message
+    db_game = bdd.BDD()
+    try:
+        data = db_game.insert_inc()
+        db_game.__disconnect__()
+        logger.info('insert inc with success')
+        message = 'INC is SUCCESS'
+    except Exception as err:
+        logger.error('Insert inc is failed')
+        message = 'ERROR'
+    db_game.__disconnect__()
+    return redirect('/admin')
 
 
 @app.route('/')
