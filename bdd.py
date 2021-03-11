@@ -40,6 +40,16 @@ class BDD():
             logger.error(err)
             exit()
 
+    def insert_inc(self):
+        logger.info('insert auto incremente')
+        try:
+            self.mycursor = self.mydb.cursor()
+            self.mycursor.execute(
+                'INSERT INTO console_game(name, date_out, constructor_console, type_console) VALUES(null, null, null, null) ON CONFLICT DO UPDATE SET console_game.name=null')
+        except psycopg2.Error as err:
+            logger.error(err)
+            exit()
+
     def select_from_db(self, id_element=None):
         self.query_specify = 'SELECT * FROM console_game'
         if id_element != None:
