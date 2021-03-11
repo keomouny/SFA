@@ -1589,3 +1589,65 @@ LINE 1: ...nstructor_console, type_console) VALUES ( 'NULL', 'NULL', 'N...
 11/03/2021 12:57:19 - INFO     - 127.0.0.1 - - [11/Mar/2021 12:57:19] "[32mGET /inc HTTP/1.1[0m" 302 -
 11/03/2021 12:57:19 - INFO     - welcome page admin
 11/03/2021 12:57:19 - INFO     - 127.0.0.1 - - [11/Mar/2021 12:57:19] "[37mGET /admin HTTP/1.1[0m" 200 -
+11/03/2021 14:38:59 - INFO     - Connection with postgress in database
+11/03/2021 14:38:59 - INFO     -  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+11/03/2021 14:38:59 - INFO     -  * Restarting with stat
+11/03/2021 14:39:00 - INFO     - Connection with postgress in database
+11/03/2021 14:39:00 - WARNING  -  * Debugger is active!
+11/03/2021 14:39:00 - INFO     -  * Debugger PIN: 307-507-681
+11/03/2021 14:41:47 - INFO     - welcome page admin
+11/03/2021 14:41:47 - INFO     - 127.0.0.1 - - [11/Mar/2021 14:41:47] "[37mGET /admin HTTP/1.1[0m" 200 -
+11/03/2021 14:41:48 - INFO     - 127.0.0.1 - - [11/Mar/2021 14:41:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+11/03/2021 14:41:50 - INFO     - welcome page
+11/03/2021 14:41:51 - INFO     - select all element for welcome page
+11/03/2021 14:41:51 - INFO     - disconnect from database
+11/03/2021 14:41:51 - INFO     - 127.0.0.1 - - [11/Mar/2021 14:41:51] "[37mGET / HTTP/1.1[0m" 200 -
+11/03/2021 14:44:28 - INFO     - get single page for console id = 1
+11/03/2021 14:44:30 - INFO     - select element by id : 1
+11/03/2021 14:44:30 - ERROR    - syntax error at or near "WHERE"
+LINE 1: SELECT * FROM console_game WHERE name IS NOT NULL WHERE id i...
+                                                          ^
+
+11/03/2021 14:44:30 - ERROR    - error for get one element
+11/03/2021 14:44:30 - INFO     - 127.0.0.1 - - [11/Mar/2021 14:44:30] "[32mGET /1 HTTP/1.1[0m" 302 -
+11/03/2021 14:44:30 - INFO     - welcome page
+11/03/2021 14:44:31 - INFO     - select all element for welcome page
+11/03/2021 14:44:31 - INFO     - disconnect from database
+11/03/2021 14:44:31 - INFO     - 127.0.0.1 - - [11/Mar/2021 14:44:31] "[37mGET / HTTP/1.1[0m" 200 -
+11/03/2021 14:44:33 - INFO     - get single page for console id = 2
+11/03/2021 14:44:34 - INFO     - select element by id : 2
+11/03/2021 14:44:34 - ERROR    - syntax error at or near "WHERE"
+LINE 1: SELECT * FROM console_game WHERE name IS NOT NULL WHERE id i...
+                                                          ^
+
+11/03/2021 14:44:34 - ERROR    - error for get one element
+11/03/2021 14:44:34 - INFO     - 127.0.0.1 - - [11/Mar/2021 14:44:34] "[32mGET /2 HTTP/1.1[0m" 302 -
+11/03/2021 14:44:34 - INFO     - welcome page
+11/03/2021 14:44:35 - INFO     - select all element for welcome page
+11/03/2021 14:44:35 - INFO     - disconnect from database
+11/03/2021 14:44:35 - INFO     - 127.0.0.1 - - [11/Mar/2021 14:44:35] "[37mGET / HTTP/1.1[0m" 200 -
+11/03/2021 14:47:56 - INFO     -  * Detected change in '/Users/mounykeo/Desktop/simplon/SFA/bdd.py', reloading
+11/03/2021 14:47:56 - INFO     -  * Restarting with stat
+11/03/2021 14:47:56 - INFO     - Connection with postgress in database
+11/03/2021 14:47:56 - WARNING  -  * Debugger is active!
+11/03/2021 14:47:56 - INFO     -  * Debugger PIN: 307-507-681
+11/03/2021 14:48:05 - INFO     - welcome page
+11/03/2021 14:48:07 - INFO     - select all element for welcome page
+11/03/2021 14:48:07 - INFO     - disconnect from database
+11/03/2021 14:48:07 - INFO     - 127.0.0.1 - - [11/Mar/2021 14:48:07] "[37mGET / HTTP/1.1[0m" 200 -
+11/03/2021 14:48:07 - INFO     - get single page for console id = 1
+11/03/2021 14:48:08 - INFO     - select element by id : 1
+11/03/2021 14:48:08 - INFO     - disconnect from database
+11/03/2021 14:48:08 - INFO     - 127.0.0.1 - - [11/Mar/2021 14:48:08] "[37mGET /1 HTTP/1.1[0m" 200 -
+11/03/2021 14:48:10 - INFO     - welcome page
+11/03/2021 14:48:11 - INFO     - select all element for welcome page
+11/03/2021 14:48:11 - INFO     - disconnect from database
+11/03/2021 14:48:11 - INFO     - 127.0.0.1 - - [11/Mar/2021 14:48:11] "[37mGET / HTTP/1.1[0m" 200 -
+11/03/2021 14:48:12 - INFO     - get single page for console id = 3
+11/03/2021 14:48:13 - INFO     - select element by id : 3
+11/03/2021 14:48:13 - INFO     - disconnect from database
+11/03/2021 14:48:13 - INFO     - 127.0.0.1 - - [11/Mar/2021 14:48:13] "[37mGET /3 HTTP/1.1[0m" 200 -
+11/03/2021 14:48:17 - INFO     - get single page for console id = 4
+11/03/2021 14:48:18 - INFO     - select element by id : 4
+11/03/2021 14:48:18 - INFO     - disconnect from database
+11/03/2021 14:48:18 - INFO     - 127.0.0.1 - - [11/Mar/2021 14:48:18] "[37mGET /4 HTTP/1.1[0m" 200 -

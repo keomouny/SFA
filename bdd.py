@@ -54,7 +54,7 @@ class BDD():
         self.query_specify = 'SELECT * FROM console_game WHERE name IS NOT NULL'
         if id_element != None:
             logger.info(f'select element by id : {id_element}')
-            self.query_specify += f' WHERE id in ({id_element});'
+            self.query_specify = f'SELECT * FROM console_game WHERE id in ({id_element});'
             try:
                 self.mycursor = self.mydb.cursor(
                     cursor_factory=psycopg2.extras.DictCursor)
